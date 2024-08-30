@@ -1,0 +1,19 @@
+Testing each an every component / element of the application thoroughly is called as functional testing.
+
+1. Test each and every element of the application for the positive scenario first.
+2. If the application is working as expected for the poisitve scenario, continue testing the testing the application for one negative scenario.
+3. If the application is responding even to the negative scenario then it means there are bugs in the application so continue testing the application for more negative scenarios.
+
+If the application is tested for positive scenario we call it as positive functional testing and negavite functional testing if it is for negative scenario.
+
+1. Uder testing
+	Testing the application with insufficient scenarios
+2. Over testing
+	Testing the application with more irrelevant scenarios
+3. Optimal testing
+	Testing the application with sufficient relevant scenarios
+
+
+Do not assume the outcomes of the application.
+Do not suggest changes int he application.
+If you are doubtful, check with the development team, or the business analyst. Subject Matter Expert.
